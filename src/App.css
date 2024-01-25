@@ -1,0 +1,14 @@
+.diagBlog {
+    padding: 2rem;
+    display: flex;
+    flex-direction: row;
+    gap: 10rem;
+}
+
+.boton {
+    color: white;
+    width: 25%;
+    padding: .4rem;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
